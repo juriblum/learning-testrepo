@@ -10,3 +10,7 @@ One more update for rebase testing, on GitHub after index was changed
 
 This file is a readme file in repository too
 This was edited locally
+
+## Purpose
+
+This file is just a readme file
