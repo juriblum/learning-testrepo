@@ -15,3 +15,7 @@ This was edited locally
 
 The purpose of this file is provide an example
 on how to use git and github together
+
+## Getting Started
+
+To get started with this project just _clone_ the repository.
